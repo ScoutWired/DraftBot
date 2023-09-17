@@ -66,11 +66,9 @@
 				},
 				{
 					"translations": {
-						"fr": "À peine arrivé dans les vignobles, vous discernez une petite cabane en bois. En y entrant, vous découvrez quelques tonneaux et plusieurs bouteilles de vin, dont une est déjà entamée. Quelques gorgées ne vous auraient pas fait de mal si seulement vous aviez réussi à vous limiter à une petite quantité. Vous trouvez le vin délicieux mais ne souhaitez pas perdre plus de temps que cela à chercher une fourche. Vous reprenez votre chemin en prenant soin d'éviter le paysan.",
-						"en": "Barely arrived in the vines, you discern a small wooden hut. As you enter it, you discover a few barrels and several bottles of wine, one of it has already been started. A few sips would not have hurt you if only you had managed to limit yourself to a small amount. You find the wine delicious and do not want to waste more time looking for a fork. You take your path back and take care to avoid the peasant."
-					},
-					"health": 3,
-					"effect": ":zany_face:"
+						"fr": "À peine arrivé dans les vignes, vous distinguez une petite cabane en bois. En y pénétrant, vous découvrez quelques tonneaux et plusieurs bouteilles de vin très ancien, l'une d'entre elles ayant été ouverte. À en juger par l'odeur, vous estimez qu'elle est là depuis un certain temps. Vous ne voulez pas perdre davantage de temps à chercher une fourchette. Vous faites demi-tour et prenez soin d'éviter le paysan.",
+						"en": "Barely arrived in the vines, you discern a small wooden hut. As you enter it, you discover a few barrels and several bottles of really old wine, one of it has been opened. From the smell, you believe that it has been there for quite some time. You do not want to waste more time looking for a fork. You take your path back and take care to avoid the peasant."
+					}
 				}
 			]
 		},
