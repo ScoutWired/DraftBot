@@ -113,14 +113,11 @@
 				},
 				{
 					"translations": {
-						"fr": "Vous regardez le calendrier, et à la date d'aujourd'hui vous voyez inscrit : Concours d'hydromel ! Vous sentant résistant à l'alcool vous décidez de tenter votre chance. Vous gagnez le concours ainsi qu'une récompense ! Cependant, vous finissez totalement ivre.",
-						"en": "You are looking at the calendar, and you notice something of interest in today's entry: Mead competition! Confident in your strong alcohol resistance, you decide to give it a try. You end up winning the contest, as well as a reward! You are also totally drunk."
+						"fr": "Vous regardez le calendrier et vous remarquez quelque chose d'intéressant dans l'entrée du jour : Compétition de lancer ! Confiant dans vos compétences, vous décidez de tenter votre chance. Vous finissez par remporter le concours, ainsi qu'une récompense ! Vous êtes également très courbaturé et avez besoin d'un court repos.",
+						"en": "You are looking at the calendar, and you notice something of interest in today's entry: Throwing competition! Confident in your strong ability, you decide to give it a try. You end up winning the contest, as well as a reward! You are also very sore and need a short rest."
 					},
-					"money": 200,
-					"effect": ":zany_face:",
-					"tags": [
-						"drinkAlcohol"
-					]
+					"lostTime": 120,
+					"money": 200
 				}
 			]
 		},
