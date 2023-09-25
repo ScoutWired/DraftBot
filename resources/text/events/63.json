@@ -185,18 +185,6 @@
 				},
 				{
 					"translations": {
-						"fr": "Vous décidez de surveiller la grange depuis la taverne locale, mais vous vous laissez distraire par les pitreries qui vous entourent. Vous finissez par vous endormir soudainement. À votre réveil, vous remarquez qu'ils ont tout simplement jeté votre corps inconscient sur la route et que vous êtes quelques pièces plus léger.",
-						"en": "You decide to watch the granary from the local tavern, but get distracted by the shenanigans around you. You suddenly fall asleep. Upon waking up, you notice that they simply tossed your unconscious body onto the road and that you are a few coins lighter."
-					},
-					"health": -5,
-					"effect": ":zany_face:",
-					"money": -75,
-					"tags": [
-						"drinkAlcohol"
-					]
-				},
-				{
-					"translations": {
 						"fr": "🗯️ Décidant de ne rien faire, vous entrez dans la taverne locale et louez une chambre pour la nuit. Mais pendant votre sommeil, des personnages vêtus de noir vous attaquent, vous frappent pour vous soumettre et vous voler. Ils vous laissent en sang sur le sol et vous avertissent de ne plus jamais fouiner dans leurs affaires...",
 						"en": "🗯️ Deciding not to do anything you enter the local tavern and rent a room for the night. But during your slumber, black clothed figures attack you, beating you into submission and robbing you. They leave you bleeding on the floor and warn you to never snoop around in their affairs again, or else..."
 					},

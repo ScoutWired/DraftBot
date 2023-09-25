@@ -75,13 +75,10 @@
 				},
 				{
 					"translations": {
-						"fr": "Plutôt qu'une bénédiction vous lui demandez si elle connait un endroit en cette forêt où vous pourriez vous reposer un moment. Elle vous amène alors à sa maison, où vous recevez de la bonne nourriture ainsi que du vin. Ce dernier est incroyablement agréable et vous finissez la bouteille entière, vous traînant après cela jusqu'à un lit. Alors que vous dormez, vous faites un cauchemar assez particulier : Donia y est une vieille femme voûtée, archétype de la sorcière, et elle veut vous tuer avant de vous cuire en son four. La véritable Donia vous laisse ainsi endormi et continue sa route.",
-						"en": "Instead of a blessing, you ask her if she knows of a place where you can rest for a couple of hours, before getting back on your way. Donia brings you to her house, where she also offers you some food and wine. The latter is particularly good and you end up emptying the whole bottle, barely able to reach the bed before falling asleep. While sleeping, you have a nightmare: you see Donia as a creepy old woman, who plans to kill you and later cook your body in her oven. The real donia let you sleep and leaves."
+						"fr": "Au lieu d'une bénédiction, vous lui demandez si elle sait où vous pourriez vous reposer pendant quelques heures avant de reprendre votre route. Donia vous emmène chez elle, où elle vous offre également de la nourriture et à boire. Ce dernier est particulièrement bon, et vous finissez par vider toute la bouteille, à peine capable d'atteindre le lit avant de vous endormir. Pendant votre sommeil, vous faites un cauchemar : vous voyez Donia dans la cuisine en tant que vieille femme effrayante, en train de préparer quelque chose de gros pour le dîner. La vraie Donia vous laisse dormir et s'en va.",
+						"en": "Instead of a blessing, you ask her if she knows of a place where you can rest for a couple of hours, before getting back on your way. Donia brings you to her house, where she also offers you some food and drink. The latter is particularly good and you end up emptying the whole bottle, barely able to reach the bed before falling asleep. While sleeping, you have a nightmare: You see Donia in the kitchen as a creepy old woman, who is preparing to cook something big for dinner. The real donia let you sleep and leaves."
 					},
-					"effect": ":sleeping:",
-					"tags" : [
-						"drinkAlcohol"
-					]
+					"effect": ":sleeping:"
 				}
 			]
 		},

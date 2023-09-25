@@ -281,14 +281,6 @@
 			"moneyToWin": 0
 		},
 		{
-			"missionId": "drinkAlcohol",
-			"missionVariant": 0,
-			"missionObjective": 1,
-			"gemsToWin": 1,
-			"xpToWin": 25,
-			"moneyToWin": 0
-		},
-		{
 			"missionId": "earnLifePoints",
 			"missionVariant": 0,
 			"missionObjective": 40,

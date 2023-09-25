@@ -19,13 +19,6 @@
 						"alte": ":sleeping:"
 					},
 					{
-						"sentence": "vous passez non loin d'un marchand, et celui-ci vous interpelle. Il vous propose de vous donner une bouteille mystérieuse qu'il ne parvient pas à vendre et ne souhaite pas voir s'abîmer. Vous acceptez et buvez goulûment son contenu. {alteEmoji}",
-						"alte": ":zany_face:",
-						"tags": [
-							"drinkAlcohol"
-						]
-					},
-					{
 						"sentence": "vous apercevez au loin un objet brillant. En vous approchant vous découvrez une bouteille contenant un liquide étrange. Intrigué, vous décidez de goûter le mélange douteux. Vous regrettez cela immédiatement. {alteEmoji}",
 						"alte": ":sick:"
 					},
@@ -96,13 +89,6 @@
 					{
 						"sentence": "vou feel the breeze cradling you slowly. You wake up several hours later wondering how this happened. {alteEmoji}",
 						"alte": ":sleeping:"
-					},
-					{
-						"sentence": "you walk by a merchant, who beckons towards you. They offer you a surplus bottle of liquor, claiming they cannot bear to let it spoil. You accept the offer, empty it along the way, and end up completely drunk. {alteEmoji}",
-						"alte": ":zany_face:",
-						"tags": [
-							"drinkAlcohol"
-						]
 					},
 					{
 						"sentence": "as you walk, a shine coming from the bushes catches you eye. You walk there and find a bottle containing a strange fluid. Interested in what it could be, you decide to taste it. You quickly feel ill. {alteEmoji}",

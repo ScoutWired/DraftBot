@@ -63,16 +63,6 @@
 					"lostTime": 30,
 					"health": 25,
 					"effect": ":clock2:"
-				},
-				{
-					"translations": {
-						"fr": "Vous le voyez rentrer, alors vous entrez à sa suite, et lui demandez des conseils. Finalement vous sympathisez et il vous invite pour diner. Pendant le repas vous buvez un peu trop et finissez ivre.",
-						"en": "You see him come in, so you go after him to ask for advices. Eventually you hit it off and he invites you over for dinner. During the meal you drink a little too much and end up drunk."
-					},
-					"effect": ":zany_face:",
-					"tags": [
-						"drinkAlcohol."
-					]
 				}
 			]
 		},

@@ -38,8 +38,8 @@
 				},
 				{
 					"translations": {
-						"fr": "Avec l'alcool, les esprits s'échauffent et vous assistez à une bagarre avant de vous en aller.",
-						"en": "As the alcohol kicks in, some people starts getting aggressive and you watch a fight happen before going away."
+						"fr": "Alors que la nuit avance, certaines personnes commencent à devenir agressives et vous observez une bagarre éclater avant de partir.",
+						"en": "As the night rolls on, some people starts getting aggressive and you watch a fight happen before going away."
 					},
 					"tags":  [
 						"bigFeast"
@@ -106,12 +106,10 @@
 				},
 				{
 					"translations": {
-						"fr": "Vous avez bien mangé, vous bavardez avec votre voisin qui ne cesse de vous servir à boire. Vous finissez par vous effondrer, ivre.",
-						"en": "You ate very well, you chat with a random person who keeps giving you drinks. You end up passing out."
+						"fr": "Vous avez très bien mangé, vous discutez avec une personne au hasard qui vous occupe toute la nuit.",
+						"en": "You ate very well, you chat with a random person who keeps you occupied all night long."
 					},
-					"effect": ":zany_face:",
 					"tags": [
-						"drinkAlcohol",
 						"bigFeast"
 					]
 				}

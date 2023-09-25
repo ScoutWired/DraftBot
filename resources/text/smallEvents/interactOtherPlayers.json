@@ -168,11 +168,6 @@
 				"{playerDisplay} tient de nombreux propos incohérents. Cela vous semble bizarre, vous repartez donc rapidement, perturbé !",
 				"Vous voyez {playerDisplay} qui a l'air complètement à l'ouest. Après avoir essayé de le ramener à la réalité en vain, vous continuez votre route plus vite afin de rattraper le temps perdu."
 			],
-			":zany_face:": [
-				"{playerDisplay} zigzague sur votre route, il semblerait qu'il ait un peu (trop) bu. Vous continuez votre périple.",
-				"{playerDisplay}, n'a pas l'air d'avoir compris que l'alcool se consomme avec modération. Vous reprenez votre chemin après cette rencontre inattendue.",
-				"Vous voyez {playerDisplay} assez éméché, pour ne pas dire de terme plus fort. Celui-ci semble bien s'amuser... tout seul. Vous faites ce que vous pouvez pour l'ignorer et continuez votre route."
-			],
 			"weapon": [
 				"Vous rencontrez {playerDisplay} qui vous montre {prefixItem2} magnifique{pluralItem} {item}.",
 				"Un passant vient frimer à côté de vous, c'est {playerDisplay} et il vous montre {prefixItem} {item} !",
@@ -375,11 +370,6 @@
 				"You try to talk to {playerDisplay}. Try. Their words are absolutely incoherent, so you continue your way somewhat disturbed.",
 				"{playerDisplay} makes a lot of incoherent remarks. As this person gives you a strange feeling, you leave hurriedly",
 				"You see {playerDisplay}, who look completely crazy. After trying to bring them back to reality in vain, you continue your travels faster in order to make up for the lost time."
-			],
-			":zany_face:": [
-				"{playerDisplay} zigzags on your road, it seems that they're a *little* drunk.",
-				"{playerDisplay} doesn't seem to understand that alcohol should be consumed with great moderation.",
-				"You see {playerDisplay}, looking quite tipsy. They look like they're having a good time... all by themselves. You choose to ignore them so as to not waste any time on your travels."
 			],
 			"weapon": [
 				"You meet {playerDisplay}, who shows you {item}.",
