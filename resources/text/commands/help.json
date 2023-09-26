@@ -382,7 +382,7 @@
 				},
 				"CLASSES": {
 					"usage": "{command:classes}",
-					"description": "Change your class. More information about class is available through the player guide : https://guide.draftbot.com/v/en"
+					"description": "Change your class. More information about class is available through the player guide : https://guide.draftbot.com/v/en/"
 				},
 				"PET": {
 					"usage": "{command:pet}",
